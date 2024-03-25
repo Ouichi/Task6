@@ -1,6 +1,5 @@
-# ���̃v���W�F�N�g�ɂ���
+# このプロジェクトについて
 
-���̃v���W�F�N�g�ł�Spring Boot�̊�b��׋����܂��B
+このプロジェクトではSpring Bootの基礎を勉強します。
 
-http://localhost:8080/hello  �ɃA�N�Z�X�����hello world��Ԃ��悤�ȃV���v����REST API���������܂��B
-
+http://localhost:8080/hello  にアクセスするとhello worldを返すようなシンプルなREST APIを実装します。
